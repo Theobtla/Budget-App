@@ -2,7 +2,7 @@
   "name": "Tableau de Bord Financier",
   "short_name": "Mon Budget",
   "description": "Suivi de votre portefeuille d'investissement et budget personnel",
-  "start_url": "/",
+  "start_url": "/Budget-App/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#667eea",
